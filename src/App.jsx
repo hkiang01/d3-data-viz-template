@@ -58,7 +58,7 @@ class App extends Component {
 
                         <h3>Hybrid Structure: Martini Glass and Drill Down Story</h3>
                         <p>The premise, data, and other description sections supply the author-controlled content, in which the context of the problem and information on each of the visualizations. The relationship between each of the visualizations and the interactions that implement them are also described. See “Visualizations and Scenes”.</p>
-                        <p>Drilling down to obtain data about each community is possible by exercising the interactions that exist between each of the scenes in the visualization. See “Annotations and Triggers: Tooltips”.</p>
+                        <p>Drilling down to obtain data about each community is possible by exercising the interactions that exist between each of the scenes in the visualization. See “Annotations and Triggers: Tooltips, mouse-over and click events”.</p>
 
                         <br/>
 
@@ -96,6 +96,7 @@ class App extends Component {
                             </ul>
                         </p>
                         <p>Although a middle R-squared value indicates the lack of explanation for a lot of the variation, such a low p value further validates the trend, as it indicates the correlation is statistically relevant. In other words, given the unemployment rate of a Chicago neighborhood, you can accurately predict its homicide rate.</p>
+                        <p>The corresponding Tableau visualization exists <a href="https://public.tableau.com/profile/harrison.kiang#!/vizhome/HomocidesandUnemployementinChicagoNeighborhoods/Dashboard">here</a></p>
                         {/*<p>Cep risus aliquam gravida cep ut lacus amet. Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus. Curae ante vestibulum ante. Blandit. Ante accumsan nisi eu placerat gravida placerat adipiscing in risus fusce vitae ac mi accumsan nunc in accumsan tempor blandit aliquet aliquet lobortis. Ultricies blandit lobortis praesent turpis. Adipiscing accumsan adipiscing adipiscing ac lacinia cep. Orci blandit a iaculis adipiscing ac. Vivamus ornare laoreet odio vis praesent nunc lorem mi. Erat. Tempus sem faucibus ac id. Vis in blandit. Nascetur ultricies blandit ac. Arcu aliquam. Accumsan mi eget adipiscing nulla. Non vestibulum ac interdum condimentum semper commodo massa arcu.</p>*/}
                         {/*<div className="row">*/}
                             {/*<div className="6u 12u(mobilep)">*/}
