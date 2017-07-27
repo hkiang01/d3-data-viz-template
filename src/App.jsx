@@ -32,7 +32,12 @@ class App extends Component {
                         </p>
                     </header>
                     <div className="box">
-                        <span className="image featured"><img src={pic01} alt="" /></span>
+                        <span className="image featured"><img src={pic01} />
+                            <p>Image Credit: <a href="https://www.flickr.com/photos/galverson2/4064715098/in/photolist-7cbJbN-KkcRZb-JRSU1M-HcC3tf-EdJ4aG-TPEpAz-GYTgSC-KFEdSp-zLzyR6-KnGv4x-JL1F9p-V1duJk-wcWun6-RSquMK-L4gttx-ov1VKW-xYdtNW-TQpAvA-yPghFr-buJ6E4-TNCDuX-LWp8Bs-TUuRP6-t7uuRd-V9Md9c-yfTTX1-K64J1g-8xNdht-WJrXFG-4TuGub-62vAsR-dwEJkj-8CHYdj-6rhXat-KjTx4W-dNNiK9-yuy48i-9hTbK-6VEGHG-FtbSg-nacnXZ-bo6D68-d5uuCy-gd82aA-TY9JYu-4Tqodn-4RN2at-QvutNg-TfbSBE-WmCXah">(flickr user Matt B)</a>
+                                <br />
+                                License: <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)</a>
+                            </p>
+                        </span>
 
                         <h3>Premise</h3>
                         <p>Chicago has for a long time suffered from a history of violence, especially in its southern and western neighborhoods. President Donald Trump even “describes our beloved city as a ‘war zone,’” according to a <a href="http://www.chicagotribune.com/news/opinion/commentary/ct-chicago-south-side-crime-unemployment-perspec-0131-md-20170130-story.html">report</a> by the Chicago Tribune. “In the first 29 days of January, there were 295 shooting victims and 50 homicides in Chicago, up 5.5 percent from this time last year”.</p>
