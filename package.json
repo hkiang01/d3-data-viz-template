@@ -4,7 +4,7 @@
   "description": "A dashboard visualization of crime and unemployment in Chicago area nehgiborhoods",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hkiang01/d3-data-viz"
+    "url": "https://github.com/hkiang01/d3-data-viz-template"
   },
   "main": "index.js",
   "engines": {
